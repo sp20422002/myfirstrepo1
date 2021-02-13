@@ -85,7 +85,7 @@ int main()
 				
 				cin>>x;
 				
-				area a1(x); //Class area, object is created : a1
+				area a1(x); //Class area, object is created : a1 (This is oblect created)
 				
 				a1.display();
 			
