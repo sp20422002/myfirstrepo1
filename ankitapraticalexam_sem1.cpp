@@ -45,5 +45,6 @@ int main()
 		cout<<"\nCourse "<<i+1<<"\n";
 		cou[i].showinfo();
 	}
+	return 0;
 	
 }
